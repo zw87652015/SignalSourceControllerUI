@@ -1,0 +1,13 @@
+-> Parameters set with:
+V_max=1.50V
+V_min=0.00V
+Ratio=0.50%
+Period=1.000s
+N_cycle=8
+-> Output 1 ON.
+-> Output 1 OFF.
+-> Output 1 OFF.
+-> Output 1 OFF.
+-> Output 1 OFF.
+-> Output 1 OFF.
+-> Output 1 OFF.
