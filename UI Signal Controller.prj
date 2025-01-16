@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="2042398712" file="E:\Documents\Codes\Matlab\SignalSourceControllerUI\UI Signal Controller.prj" location="E:\Documents\Codes\Matlab\SignalSourceControllerUI" name="UI Signal Controller" target="target.mlapps" target-name="打包为 App">
+  <configuration build-checksum="45893759" file="E:\Documents\Codes\Matlab\SignalSourceControllerUI\UI Signal Controller.prj" location="E:\Documents\Codes\Matlab\SignalSourceControllerUI" name="UI Signal Controller" target="target.mlapps" target-name="打包为 App">
     <param.appname>UI Signal Controller</param.appname>
     <param.authnamewatermark>Luojia Jiang</param.authnamewatermark>
     <param.email>me@luojiajiang.uk</param.email>
@@ -12,8 +12,8 @@
     </param.icons>
     <param.summary>Control signal source and detect cells.</param.summary>
     <param.description>Based on my own devices.</param.description>
-    <param.screenshot>C:\Users\zw876\AppData\Local\Temp\tp67f1d41f_dbe7_46af_a9b0_89d567623063.png</param.screenshot>
-    <param.version>1.1</param.version>
+    <param.screenshot>C:\Users\zw876\AppData\Local\Temp\tp737c25ba_3651_47e3_b357_68de6273f72f.png</param.screenshot>
+    <param.version>1.2</param.version>
     <param.products.name>
       <item>Image Processing Toolbox</item>
       <item>Instrument Control Toolbox</item>
